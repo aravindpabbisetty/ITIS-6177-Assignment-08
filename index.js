@@ -28,7 +28,7 @@ const swaggerDetails = {
       description:
         "Automatic generation of documentation for apis using swagger",
     },
-    host: "localhost:3000",
+    host: "159.89.91.144:3000",// local - localhost:3000
     basePath: "/",
   },
   apis: ["./index.js"],
